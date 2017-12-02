@@ -1,41 +1,13 @@
-@import url(//fonts.googleapis.com/css?family=Open+Sans:400,300,800,700,400italic);
-@import url(//fonts.googleapis.com/css?family=Paytone+One);
-
-
 body {
-    background: #fff;
-    color: #85898c;
-    font: 400 15px/24px "Open Sans", sans-serif;
-    -webkit-text-size-adjust: none;
+	font-family: 'Roboto', sans-serif;
+	color: #333;
 }
 
 img {
-    max-width: 100%;
-    height: auto;
+	max-width: 100%;
+	height: auto;
 }
 
-hr {
-    margin: 0;
-    padding: 0;
-    border: none;
-    height: 3px;
-    background: #e0e0e0;
-}
-
-h2, h3 {
-    text-align: center;
-}
-
-h2 {
-    font-weight: 900;
-    font-size: 36px;
-    line-height: 40px;
-}
-
-h3 {
-    font-weight: 400;
-    font-size: 24px;
-}
-h3 a:hover {
-    color: #0fcabf;
+* {
+	box-sizing: border-box;
 }
