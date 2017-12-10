@@ -1,9 +1,6 @@
-/*===================================================
-                MAIN STYLES
-====================================================*/
 @import "normalize.css";
-@import "base/_variables";
 @import "base/_mixins";
+@import "base/_variables";
 @import "base/_global";
 @import "modules/_large-hero";
 @import "modules/_btn";
@@ -15,11 +12,11 @@
 @import "modules/_section-title";
 @import "modules/_feature-item";
 @import "modules/_testimonial";
-@import "modules/_sprite";
 @import "modules/_site-footer";
+@import "modules/_sprite";
 @import "modules/_site-header";
 @import "modules/_primary-nav";
-@import "modules/_reveal-item";
+@import "modules/_reval-item";
 @import "modules/_modal";
 @import "modules/_social-icons";
 
